@@ -16,9 +16,7 @@ A fun and interactive Discord bot built for community engagement, moderation, en
 
 ## 📦 Tech Stack
 
-* Node.js
 * Discord.js
-* JavaScript
 * Sequelize & Keyv
 
 ---
@@ -56,7 +54,7 @@ node index.js
 ## 🌐 Invite the Bot
 
 ```txt
-https://discord.com/api/oauth2/authorize?... 
+https://discord.com/oauth2/authorize?client_id=1502674274228633803&permissions=8&integration_type=0&scope=bot
 ```
 
 ---
