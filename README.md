@@ -49,9 +49,7 @@ node index.js
 
 ## 📸 Preview
 
-```md
 ![Bot Preview](preview.png)
-```
 
 ---
 
