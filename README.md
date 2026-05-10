@@ -50,7 +50,7 @@ node index.js
 ## 📸 Preview
 
 ```md
-![Bot Preview](image-link-here)
+![Bot Preview](preview.png)
 ```
 
 ---
