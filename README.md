@@ -45,17 +45,13 @@ GUILD_ID=your_server_id
 node index.js
 ```
 
+---
+
 ## 📸 Preview
 
 ```md
 ![Bot Preview](image-link-here)
 ```
-
----
-
-## 🛡️ Permissions Required
-
-* Administrator
 
 ---
 
